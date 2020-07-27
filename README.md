@@ -1,3 +1,5 @@
 # Grade-Prediction
-init
-Prediciting student grades using a linear regression model.
+
+Predicting student grades using a linear regression model.
+
+
